@@ -1,0 +1,21 @@
+@media (max-width : 3000px){
+         body {background-image: url(background.jpg);}
+div {text-align: center; padding: 10px; color:rgb(2, 74, 42);}
+main {font-size: 20px; font-style: italic;font-weight: bold; }
+.location {position:top left;
+        margin: auto;
+        right: 800px;
+        max-width: 300px;
+        max-height: fit-content;}   
+#pic1 {max-width: 350px;
+        margin-right: 400px;}   
+#pic2 {max-width: 350px;
+        margin-left: 200px;} 
+.back {border-radius: 15px; 
+          background-color: lightseagreen;
+            font-size: medium;
+             color: white;
+        border-top-color: rgb(255, 255, 255);}
+.back:hover {color: black;} 
+}                                          
+
